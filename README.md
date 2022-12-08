@@ -1,3 +1,4 @@
-# API-.NET-SQL-Server
+## API development in .NET framework and SQL-Server database
 
-Folder structure in 3 layers and connection to local db in SQL Server. Use Visual Studio 2019 to proper usage of the application (.sln).
+Implementing a layered architecture in 3 folder structure and connected to a local db in SQL Server.
+Use Visual Studio 2019 to proper run/test of the application (.sln).
